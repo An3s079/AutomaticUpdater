@@ -1,0 +1,70 @@
+C:\Users\Andries\source\repos\Rename\bin\Debug\RenameMod.dll
+C:\Users\Andries\source\repos\Rename\bin\Debug\RenameMod.pdb
+C:\Users\Andries\source\repos\Rename\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Andries\source\repos\Rename\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Andries\source\repos\Rename\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Andries\source\repos\Rename\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Andries\source\repos\Rename\bin\Debug\Ionic.Zip.dll
+C:\Users\Andries\source\repos\Rename\bin\Debug\YamlDotNet.dll
+C:\Users\Andries\source\repos\Rename\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andries\source\repos\Rename\bin\Debug\Mono.Cecil.dll
+C:\Users\Andries\source\repos\Rename\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Andries\source\repos\Rename\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\Andries\source\repos\Rename\bin\Debug\MonoMod.Utils.xml
+C:\Users\Andries\source\repos\Rename\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Andries\source\repos\Rename\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Andries\source\repos\Rename\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Andries\source\repos\Rename\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Andries\source\repos\Rename\obj\Debug\RenameMod.csprojAssemblyReference.cache
+C:\Users\Andries\source\repos\Rename\obj\Debug\RenameMod.csproj.CoreCompileInputs.cache
+C:\Users\Andries\source\repos\Rename\obj\Debug\RenameMod.csproj.CopyComplete
+C:\Users\Andries\source\repos\Rename\obj\Debug\RenameMod.dll
+C:\Users\Andries\source\repos\Rename\obj\Debug\RenameMod.pdb
+C:\Users\Andries\source\repos\Rename\bin\Debug\Newtonsoft.Json.xml
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\RenameMod.dll
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\RenameMod.pdb
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\Newtonsoft.Json.dll
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\Ionic.Zip.dll
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\YamlDotNet.dll
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\Mono.Cecil.dll
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\MonoMod.Utils.xml
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\Newtonsoft.Json.xml
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\noaht\Downloads\Rename\Rename\obj\Debug\RenameMod.csprojAssemblyReference.cache
+C:\Users\noaht\Downloads\Rename\Rename\obj\Debug\RenameMod.csproj.CoreCompileInputs.cache
+C:\Users\noaht\Downloads\Rename\Rename\obj\Debug\RenameMod.csproj.CopyComplete
+C:\Users\noaht\Downloads\Rename\Rename\obj\Debug\RenameMod.dll
+C:\Users\noaht\Downloads\Rename\Rename\obj\Debug\RenameMod.pdb
+C:\Users\noaht\Downloads\Rename\Rename\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\RenameMod.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\RenameMod.pdb
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\Ionic.Zip.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\YamlDotNet.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\Mono.Cecil.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\MonoMod.Utils.xml
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\noaht\Downloads\Rename (1)\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\noaht\Downloads\Rename (1)\obj\Debug\RenameMod.csprojAssemblyReference.cache
+C:\Users\noaht\Downloads\Rename (1)\obj\Debug\RenameMod.csproj.CoreCompileInputs.cache
+C:\Users\noaht\Downloads\Rename (1)\obj\Debug\RenameMod.csproj.CopyComplete
+C:\Users\noaht\Downloads\Rename (1)\obj\Debug\RenameMod.dll
+C:\Users\noaht\Downloads\Rename (1)\obj\Debug\RenameMod.pdb
